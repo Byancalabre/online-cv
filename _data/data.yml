@@ -106,7 +106,15 @@ projects:
       - title: GPSAFE
         link: "#"
         tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
+oss:
+    title: 
+    intro:
+    contributions:
 
+publications:
+    title: 
+    intro: 
+    papers:
 skills:
     title: Competências
 
