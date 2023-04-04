@@ -96,15 +96,15 @@ projects:
       Os projetos a seguir foram desenvolvidos por mim desde 2022 e estão todos disponíveis no meu Github:
     assignments:
       - title: VollMedApi
-        link: "#hook"
+        link: "https://github.com/DaviSobrinho/VollMedAPI"
         tagline: "API RESTful de uma clínica, nela pode-se agendar e cancelar consultas além de possuir dois CRUD's, um de pacientes e outro de médicos. Desenvolvido no 1º semestre de 2023."
 
       - title: Pomos
-        link: "#"
+        link: "https://github.com/DaviSobrinho/Projeto-Pomos"
         tagline: "Aplicativo android que representa uma agenda atrelada a técnica de Pomodoro, através dela você consegue cronometrar suas atividades e obter maior eficiência. Desenvolvido no 2º semestre de 2022."
 
       - title: GPSAFE
-        link: "#"
+        link: "https://github.com/DaviSobrinho/GPSAFE"
         tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
 oss:
     title: 
