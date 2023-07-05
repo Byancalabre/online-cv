@@ -87,13 +87,12 @@ education:
 experiences:
     title: Experiências
     info:
-
     - role: Estagiário de TI
         time: 2023 - 2023
         company: Cebraspe
         details: |
           Participação com serviços de automação, desenvolvimento de sistemas e interfaces, além de suporte. Utilizando de ferramentas como Figma, PowerAutomate, PowerApps, PowerBI, SharePoint e automações avançadas com VBA.
-      - role: Instalador de rastreadores veiculares
+    - role: Instalador de rastreadores veiculares
         time: 2019 - 2021
         company: Wanderley Rastreadores
         details: |
@@ -107,11 +106,9 @@ projects:
       - title: VollMedApi
         link: "https://github.com/DaviSobrinho/VollMedAPI"
         tagline: "API RESTful de uma clínica, nela pode-se agendar e cancelar consultas além de possuir dois CRUD's, um de pacientes e outro de médicos. Desenvolvido no 1º semestre de 2023."
-
       - title: Pomos
         link: "https://github.com/DaviSobrinho/Projeto-Pomos"
         tagline: "Aplicativo android que representa uma agenda atrelada a técnica de Pomodoro, através dela você consegue cronometrar suas atividades e obter maior eficiência. Desenvolvido no 2º semestre de 2022."
-
       - title: GPSAFE
         link: "https://github.com/DaviSobrinho/GPSAFE"
         tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
