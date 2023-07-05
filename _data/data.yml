@@ -52,10 +52,13 @@ sidebar:
 career-profile:
     title: Perfil
     summary: |
-      Me chamo Davi, tenho 21 anos, curso Análise e desenvolvimento de sistemas na UCB, atualmente no 3º período e
-      sou um desenvolvedor com experiências majoritariamente em Mobile/Back-End. Tenho projetos desenvolvidos principalmente 
-      em Java/Kotlin buscando mais recentemente especializar-me mais no SpringFramework. Amo tecnologia, lógica, matemática e solucionar problemas
-      ,tudo isso me atraiu para a área de programação, busco uma primeira oportunidade de emprego para mostrar meu potencial e ascender minha carreira como desenvolvedor.
+      Me chamo Davi, tenho 22 anos, curso Análise e desenvolvimento de sistemas na UCB, 
+      atualmentente no 4º período e sou um desenvolvedor com experiências majoritariamente em Mobile/Back-End.
+      Tenho projetos desenvolvidos principalmente em Java/Kotlin e Spring Boot, 
+      mais recentemente também focando em JavaScript. Amo tecnologia, lógica, matemática e 
+      solucionar problemas, a parte criativa e as possibilidades que a programação trazem são 
+      para mim muito contagiantes ,tudo isso me atraiu para a área de programação, eu então pretendo 
+      seguir na área e me aperfeiçoar cada vez mais como desenvolvedor.
 
 education:
     title: Formação
@@ -74,7 +77,7 @@ education:
         university: Alura
         time: 2022 - 2023
         details: |
-          Diversos cursos referentes a TI, em especial programação como cursos de Java, Kotlin, POO, mySQL entre outros.
+          Diversos cursos referentes a TI, em especial programação como cursos de Java, Kotlin, JavaScript, POO, mySQL, VBA, entre outros.
       - degree: Cursos online Unity onDemand
         university: Unity
         time: 2023 - 2023
@@ -84,6 +87,12 @@ education:
 experiences:
     title: Experiências
     info:
+
+    - role: Estagiário de TI
+        time: 2023 - 2023
+        company: Cebraspe
+        details: |
+          Participação com serviços de automação, desenvolvimento de sistemas e interfaces, além de suporte. Utilizando de ferramentas como Figma, PowerAutomate, PowerApps, PowerBI, SharePoint e automações avançadas com VBA.
       - role: Instalador de rastreadores veiculares
         time: 2019 - 2021
         company: Wanderley Rastreadores
@@ -106,6 +115,9 @@ projects:
       - title: GPSAFE
         link: "https://github.com/DaviSobrinho/GPSAFE"
         tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
+      - title: YoursBank
+        link: "https://github.com/DaviSobrinho/GPSAFE"
+        tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
 oss:
     title: 
     intro:
@@ -123,11 +135,11 @@ skills:
 
       - name: Spring
 
-      - name: MySql/SQLite
+      - name: MySql/SQLite(Sequelize/RoomDB)
 
       - name: Git/Github
 
-      - name: HTML/CSS
+      - name: JavaScriptHTML/CSS
       
       - name: Arquiteturas-MVC/MVVM
       
@@ -137,7 +149,7 @@ skills:
       
       - name: Metodologias ágeis
 
-      - name: Pacote Office
+      - name: Pacote Office Avançado(VBA e ferramentas Power)
       
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
