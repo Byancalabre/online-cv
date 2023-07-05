@@ -130,9 +130,7 @@ skills:
   title: Competências
 
   toolset:
-    - name: Java/Kotlin
-
-    - name: Spring
+    - name: Java/Kotlin/Spring
 
     - name: MySql/SQLite (Sequelize/RoomDB)
 
