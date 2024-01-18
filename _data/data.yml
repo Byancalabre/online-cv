@@ -106,7 +106,7 @@ projects:
       tagline: "API RESTful de uma clínica, nela pode-se agendar e cancelar consultas além de possuir dois CRUD's, um de pacientes e outro de médicos. Desenvolvido no 1º semestre de 2023."
     - title: Ensinativa
       link: "https://github.com/DaviSobrinho/Ensinativa"
-      tagline: "É um projeto que começou durante o final do 2° semestre de 2023, consiste em um aplicativo de Helpdesk gratuito com chamadas e chats para resolução de problemas de tecnologia gerais de qualquer pessoa"
+      tagline: "É um projeto que começou durante o final do 2° semestre de 2023 e estou desenvolvendo junto com um colega meu que é DevOps, consiste em um aplicativo de Helpdesk gratuito com chamadas e chats para resolução de problemas de tecnologia gerais de qualquer pessoa"
     - title: Pomos
       link: "https://github.com/DaviSobrinho/Projeto-Pomos"
       tagline: "Aplicativo android que representa uma agenda atrelada a técnica de Pomodoro, através dela você consegue cronometrar suas atividades e obter maior eficiência. Desenvolvido no 2º semestre de 2022."
