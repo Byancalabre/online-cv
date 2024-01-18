@@ -52,13 +52,11 @@ sidebar:
 career-profile:
   title: Perfil
   summary: |
-    Me chamo Davi, tenho 22 anos, curso Análise e desenvolvimento de sistemas na UCB,
-    atualmente no 4º período e sou um desenvolvedor com experiências majoritariamente em Mobile/Back-End.
-    Tenho projetos desenvolvidos principalmente em Java/Kotlin e Spring Boot,
-    mais recentemente também focando em JavaScript. Amo tecnologia, lógica, matemática e
-    solucionar problemas, a parte criativa e as possibilidades que a programação trazem são
-    para mim muito contagiantes, tudo isso me atraiu para a área de programação, eu então pretendo
-    seguir na área e me aperfeiçoar cada vez mais como desenvolvedor.
+    Me chamo Davi, tenho 22 anos, formado em Análise e desenvolvimento de sistemas pela UCB.
+    Sou um desenvolvedor e tenho maiores experiências com Mobile e Back-end.
+    Tenho projetos desenvolvidos principalmente em Kotlin/Java.
+    Amo tecnologia, lógica, matemática e solucionar problemas, a parte criativa e as possibilidades que a programação trazem são para mim muito contagiantes.
+    Tudo isso me atraiu para a área de programação em 2022, desde então pretendo seguir na área e me aperfeiçoar cada vez mais como desenvolvedor.
 
 education:
   title: Formação
@@ -67,7 +65,7 @@ education:
       university: Universidade Católica de Brasília
       time: 2022 - 2023
       details: |
-        Ensino médio conjunto ao ensino técnico com formação de técnico em manutenção automotiva que realizei através de bolsa integral.
+        Curso de nível superior em tecnologia, focado no desenvolvimento de sistemas e aplicativos.
     - degree: Ensino Médio/Técnico (técnico em manutenção automotiva)
       university: Sesi Taguatinga/Senai Taguatinga
       time: 2016 - 2018
@@ -75,7 +73,7 @@ education:
         Ensino médio conjunto ao ensino técnico com formação de técnico em manutenção automotiva que realizei através de bolsa integral.
     - degree: Cursos online Alura onDemand
       university: Alura
-      time: 2022 - 2023
+      time: 2022 - 2024
       details: |
         Diversos cursos referentes a TI, em especial programação como cursos de Java, Kotlin, JavaScript, POO, mySQL, VBA, entre outros.
     - degree: Cursos online Unity onDemand
@@ -91,7 +89,7 @@ experiences:
       time: 2023 - 2023
       company: Cebraspe
       details: |
-        Participação com serviços de automação, desenvolvimento de sistemas e interfaces, além de suporte. Utilizando ferramentas como Figma, PowerAutomate, PowerApps, PowerBI, SharePoint e automações avançadas com VBA.
+        Participação com serviços de automação, analisando e desenvolvendo sistemas e interfaces. Utilizando ferramentas como Figma, PowerAutomate, PowerApps, PowerBI, SharePoint e automações avançadas com VBA.
     - role: Instalador de rastreadores veiculares
       time: 2019 - 2021
       company: Wanderley Rastreadores
@@ -106,6 +104,9 @@ projects:
     - title: VollMedApi
       link: "https://github.com/DaviSobrinho/VollMedAPI"
       tagline: "API RESTful de uma clínica, nela pode-se agendar e cancelar consultas além de possuir dois CRUD's, um de pacientes e outro de médicos. Desenvolvido no 1º semestre de 2023."
+    - title: Ensinativa
+      link: "https://github.com/DaviSobrinho/Ensinativa"
+      tagline: "É um projeto que começou durante o final do 2° semestre de 2023, consiste em um aplicativo de Helpdesk gratuito com chamadas e chats para resolução de problemas de tecnologia gerais de qualquer pessoa"
     - title: Pomos
       link: "https://github.com/DaviSobrinho/Projeto-Pomos"
       tagline: "Aplicativo android que representa uma agenda atrelada a técnica de Pomodoro, através dela você consegue cronometrar suas atividades e obter maior eficiência. Desenvolvido no 2º semestre de 2022."
@@ -114,7 +115,7 @@ projects:
       tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
     - title: YoursBank
       link: "https://github.com/DaviSobrinho/GPSAFE"
-      tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
+      tagline: "Site desenvolvido em JavaScript, desenvolvido no 1° semestre de 2023, consiste em um sistema em JavaScript que permite que usuários criem contas e façam transações entre elas"
 
 oss:
   title:
@@ -132,15 +133,17 @@ skills:
   toolset:
     - name: Java/Kotlin/Spring
 
-    - name: MySql/SQLite (Sequelize/RoomDB)
+    - name: MySql/SQLite(Sequelize/RoomDB)
 
     - name: Git/Github
+
+    - name: Firebase RTDB/Firebase Authentication
 
     - name: JavaScript/HTML/CSS
 
     - name: Arquiteturas-MVC/MVVM
 
-    - name: C# (Unity)/C e Python (Advindos da graduação)
+    - name: C# (Unity 3D)/C e Python (Advindos da graduação)
 
     - name: Testes automatizados (SonarLint/SonarCloud)
 
