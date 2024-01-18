@@ -133,7 +133,7 @@ skills:
   toolset:
     - name: Java/Kotlin/Spring
 
-    - name: MySql/SQLite(Sequelize/RoomDB)
+    - name: MySql/SQLite(Sequelize/RoomDatabase)
 
     - name: Git/Github
 
