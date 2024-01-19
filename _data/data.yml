@@ -53,10 +53,8 @@ career-profile:
   title: Perfil
   summary: |
     Me chamo Byanca, tenho 21 anos, estou cursando enfermage atualmente no 6° período pelo Centro Universitário Estácio de Brasília.
-    Sou um desenvolvedor e tenho maiores experiências com Mobile e Back-end.
-    Tenho projetos desenvolvidos principalmente em Kotlin/Java.
-    Amo tecnologia, lógica, matemática e solucionar problemas, a parte criativa e as possibilidades que a programação trazem são para mim muito contagiantes.
-    Tudo isso me atraiu para a área de programação em 2022, desde então pretendo seguir na área e me aperfeiçoar cada vez mais como desenvolvedor.
+    Amo atividades relacionadas ao campo da saúde, em especial, o cuidado de pessoas. Tenho maiores experiências com a realização de curativos e cuidados com pacientes. 
+    Desde 2021 curso enfermagem, a área me encantou e me encanta até hoje, saber que posso ajudar e agregar à vida das pessoas é para mim muito motivador.
 
 education:
   title: Formação
@@ -104,21 +102,6 @@ projects:
   title: 
   intro: >
   assignments:
-    - title: VollMedApi
-      link: "https://github.com/DaviSobrinho/VollMedAPI"
-      tagline: "API RESTful de uma clínica, nela pode-se agendar e cancelar consultas além de possuir dois CRUD's, um de pacientes e outro de médicos. Desenvolvido no 1º semestre de 2023."
-    - title: Ensinativa
-      link: "https://github.com/DaviSobrinho/Ensinativa"
-      tagline: "É um projeto que começou durante o final do 2° semestre de 2023 e estou desenvolvendo junto com um colega meu que é DevOps, consiste em um aplicativo de Helpdesk gratuito com chamadas e chats para resolução de problemas de tecnologia gerais de qualquer pessoa"
-    - title: Pomos
-      link: "https://github.com/DaviSobrinho/Projeto-Pomos"
-      tagline: "Aplicativo android que representa uma agenda atrelada a técnica de Pomodoro, através dela você consegue cronometrar suas atividades e obter maior eficiência. Desenvolvido no 2º semestre de 2022."
-    - title: GPSAFE
-      link: "https://github.com/DaviSobrinho/GPSAFE"
-      tagline: "Meu primeiro app desenvolvido para android, representa um CRUD de clientes e pretendo aprimorá-lo para um grande sistema. Desenvolvido no 1º semestre de 2022."
-    - title: YoursBank
-      link: "https://github.com/DaviSobrinho/GPSAFE"
-      tagline: "Site desenvolvido em JavaScript, desenvolvido no 1° semestre de 2023, consiste em um sistema em JavaScript que permite que usuários criem contas e façam transações entre elas"
 
 oss:
   title:
