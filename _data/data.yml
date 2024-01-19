@@ -7,18 +7,18 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Davi Sobrinho Labre
-  tagline: Mobile/Back-End Developer
+  name: Byanca Sobrinho Labre
+  tagline: Estudante de enfermagem
   avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: davisobrinho82452@gmail.com
-  phone: +55(61)99827-2223
+  email: byancalabre1@gmail.com
+  phone: +55(61)99259-6068
   timezone: Brasil/Brasília
-  citizenship: Brasileiro
-  linkedin: davi-sobrinho-labre-b37500235/
-  github: DaviSobrinho
-  telegram: DaviLabre
+  citizenship: Brasileira
+  linkedin: https://br.linkedin.com/in/byanca-labre-916583204
+  github: 
+  telegram: 
   xing:
   gitlab:
   bitbucket:
@@ -35,7 +35,7 @@ sidebar:
         level: Nativo
 
       - idiom: Inglês
-        level: Profissional
+        level: Avançado
 
   interests:
     title: Interesses
@@ -46,13 +46,13 @@ sidebar:
       - item: Video-Games
         link:
 
-      - item: Basquete
+      - item: Viagens
         link:
 
 career-profile:
   title: Perfil
   summary: |
-    Me chamo Davi, tenho 22 anos, formado em análise e desenvolvimento de sistemas pela UCB.
+    Me chamo Byanca, tenho 21 anos, estou cursando enfermage atualmente no 6° período pelo Centro Universitário Estácio de Brasília.
     Sou um desenvolvedor e tenho maiores experiências com Mobile e Back-end.
     Tenho projetos desenvolvidos principalmente em Kotlin/Java.
     Amo tecnologia, lógica, matemática e solucionar problemas, a parte criativa e as possibilidades que a programação trazem são para mim muito contagiantes.
@@ -61,45 +61,48 @@ career-profile:
 education:
   title: Formação
   info:
-    - degree: Graduação - Análise e desenvolvimento de sistemas 
-      university: Universidade Católica de Brasília
+    - degree: Graduação - Bacharelado em Enfermagem 
+      university: Centro Universitário Estácio de Brasília
       time: 2022 - 2023
       details: |
         Curso de nível superior em tecnologia, focado no desenvolvimento de sistemas e aplicativos.
-    - degree: Ensino Médio/Técnico (técnico em manutenção automotiva)
-      university: Sesi Taguatinga/Senai Taguatinga
-      time: 2016 - 2018
+    - degree: Ensino Médio
+      university: CEMAB
+      time: 2018 - 2020
       details: |
-        Ensino médio conjunto ao ensino técnico com formação de técnico em manutenção automotiva que realizei através de bolsa integral.
-    - degree: Cursos online Alura onDemand
-      university: Alura
-      time: 2022 - 2024
+        Ensino médio.
+    - degree: Curso de Inglês
+      university: CILC
+      time: 2015 - 2020
       details: |
-        Diversos cursos referentes a TI, em especial programação como cursos de Java, Kotlin, JavaScript, POO, mySQL, VBA, entre outros.
-    - degree: Cursos online Unity onDemand
-      university: Unity
-      time: 2023 - 2023
+        Curso de inglês do básico ao avançado realizado no centro interescolar de línguas de Ceilândia.
+    - degree: Curso de curativo e desbridamento
+      university: Estácio
+      time: 2022 - 2022
       details: |
-        Formação da Unity para desenvolvedor de jogos 3D e 2D.
+        Curso focado em realizar curativos, desbridamentos e cuidados paleativos através de aulas práticas e teóricas. 
+    - degree: Espaço cidadania CIEE
+      university: CIEE
+      time: 2019 - 2019
+      details: |
+        Curso realizado durante 6 mêses com 222 horas de carga horária com foco em desenvolvimento de SoftSkills. 
 
 experiences:
   title: Experiências
   info:
-    - role: Estagiário de TI
-      time: 2023 - 2023
-      company: Cebraspe
+    - role: Jovem aprendiz
+      time: 2021 - 2021
+      company: CIEE
       details: |
-        Participação com serviços de automação, analisando e desenvolvendo sistemas e interfaces. Utilizando ferramentas como Figma, PowerAutomate, PowerApps, PowerBI, SharePoint e automações avançadas com VBA.
-    - role: Instalador de rastreadores veiculares
-      time: 2019 - 2021
-      company: Wanderley Rastreadores
+        Atuação como operadora de telemarketing com serviços diversos de atendimento e suporte à estudantes e empresas.
+    - role: Agente da central de operações
+      time: 2022 - 2024
+      company: CIEE
       details: |
-        Atuava no negócio do meu pai, realizando manutenção/instalação/configuração de rastreadores veiculares, além de fornecer suporte ao usuário.
-
+        Atução com suporte de atendimento ao cliente e utilização das ferramentas do pacote Office
 projects:
-  title: Projetos
+  title: 
   intro: >
-    Os projetos a seguir foram desenvolvidos por mim desde 2022 e estão todos disponíveis no meu Github:
   assignments:
     - title: VollMedApi
       link: "https://github.com/DaviSobrinho/VollMedAPI"
@@ -131,25 +134,14 @@ skills:
   title: Competências
 
   toolset:
-    - name: Java/Kotlin/Spring
+    
+    - name: Realização de curativos
 
-    - name: MySql/SQLite
+    - name: Cuidado com o paciente
 
-    - name: Git/Github
+    - name: Atendimento e suporte ao cliente
 
-    - name: Firebase RTDB/Firebase Authentication
-
-    - name: JavaScript/HTML/CSS
-
-    - name: Arquiteturas-MVC/MVVM
-
-    - name: C# (Unity 3D)/C e Python (Advindos da graduação)
-
-    - name: Testes automatizados (SonarLint/SonarCloud)
-
-    - name: Metodologias ágeis
-
-    - name: Pacote Office Avançado (VBA e ferramentas Power)
+    - name: Pacote Office Básico (VBA e ferramentas Power)
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
